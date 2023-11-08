@@ -1,0 +1,47 @@
+main
+{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+	width:600px;
+	height:900px;
+	text-align:center;
+	color:orange;
+	font-family:"comic sans MS";
+}
+
+body
+{
+	background-image:linear-gradient(to right, yellow, red);
+}
+
+.s1
+{
+	position:fixed;
+	right:200px;
+	top:450px;
+}
+
+.s2
+{
+	position:fixed;
+	left:200px;
+	top:450px;
+}
+
+div:empty
+{
+	background-color:black;
+	width:3000px;
+	height:100px;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+}
+
+.dynia
+{
+	position:fixed;
+	bottom:0px;
+	left:1175px;
+}

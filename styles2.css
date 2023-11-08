@@ -1,0 +1,16 @@
+*
+{
+	background-image:linear-gradient(to right, black, red);
+}
+.c1
+{
+	position:fixed;
+	left: 350px;
+	top: 100px;
+}
+a
+{
+	position:fixed;
+	left:1300px;
+	bottom:75px;
+}
